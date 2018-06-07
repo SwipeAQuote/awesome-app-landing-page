@@ -21,6 +21,7 @@ app:
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-screen-640x1136.png
   # 640x1136px
+  images/SwipeAQuoteWebsiteImage.png
 
 #
 # Marketing
