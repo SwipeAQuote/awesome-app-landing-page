@@ -17,7 +17,7 @@ app:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
 
-  screenshot: images/SwipeAQuoteWebsiteImage.png
+  screenshot: images/Jul10Yescopy5.5copy.png
     
   # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
@@ -41,7 +41,7 @@ social-links:
   facebook:
   twitter:
   pinterest:
-  instagram: @swipeaquote
+  instagram: swipeaquote
   email: info@swipeaquote.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
